@@ -26,6 +26,8 @@ I am a third-year student at University of Rhode Island, where I am pursuing a B
 
 <img src="https://miro.medium.com/max/1400/1*V497h0fkDNp2uunMNN1O4w.png" width="700" height="200">
  </div>
+ 
+ #
 
 ### **Basic Python Functions**
 
@@ -39,6 +41,7 @@ I have the ability to produce basic Python code with functionality including fil
 
 [CC 8: Creating a Simple Function](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_8)
 
+#
 
 ### **Basic Geoprocessing Tasks with ArcPy**
 
@@ -54,6 +57,7 @@ I am able to undertake basic geoprocessing tasks utilizing Python and the arcpy 
 
 [Midterm: Creating a Python Tool](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Midterm_Tool_Challenge)
 
+#
 
 ### **Python Toolboxes**
 
