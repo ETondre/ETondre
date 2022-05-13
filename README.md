@@ -1,17 +1,31 @@
+ <div align="center"> 
+  
 # **Emma Tondre**
+</div>
 
 
 ### **About Me**
 
 I am a third-year student at University of Rhode Island, where I am pursuing a Bachelor of Science in Wildlife & Conservation Biology and a minor in GIS & Remote Sensing. My primary focus is on the preservation and sustainable use of our natural environment, resources, and wildlife. My interests include invasive species management and the conservation of our native flora and fauna. 
 
+ <div align="center"> 
+  
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137079211/large.jpeg" width="288" height="384">
+</div>
+
 
 ###### [Purple pitcher plant (*Sarracenia purpurea*). Photo taken at Great Swamp Management Area, South Kingstown, RI]
 
 # 
-
+ <div align="center"> 
+  
 # **Portfolio**
+  
+### Python Coding Language
+
+
+<img src="https://miro.medium.com/max/1400/1*V497h0fkDNp2uunMNN1O4w.png" width="700" height="200">
+ </div>
 
 ### **Basic Python Functions**
 
