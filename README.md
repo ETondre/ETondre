@@ -3,8 +3,7 @@
 
 ### **About Me**
 
-I am currently an undergraduate student at the University of Rhode Island. I am studying Wildlife Biology and GIS/Remote Sensing.
-My interests include invasive species management and native plant conservation.
+I am a third-year student at University of Rhode Island, where I am pursuing a Bachelor of Science in Wildlife & Conservation Biology and a minor in GIS & Remote Sensing. My primary focus is on the preservation and sustainable use of our natural environment, resources, and wildlife. My interests include invasive species management and the conservation of our native flora and fauna. 
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137079211/large.jpeg" width="288" height="384">
 
