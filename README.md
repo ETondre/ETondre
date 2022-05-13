@@ -1,8 +1,54 @@
-### Emma Tondre 
+# **Emma Tondre**
+
+
+### **About Me**
 
 I am currently an undergraduate student at the University of Rhode Island. I am studying Wildlife Biology and GIS/Remote Sensing.
 My interests include invasive species management and native plant conservation.
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137079211/large.jpeg" width="384" height="512">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137079211/large.jpeg" width="288" height="384">
+
+# 
+
+# **Portfolio**
+
+### **Basic Python Functions**
+
+I have the ability to produce basic Python code with functionality including file creation & manipulation and basic operations such as loops, if/else statements, lists and variable manipulation. 
+
+###### Relevant Assignments:
+
+[CC 2: List Manipulation & User Inputs](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_2)
+
+[CC 3: Directory Creation, sys.argv, Bat Files, and Working With CSV Files](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_3)
+
+[CC 8: Creating a Simple Function](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_8)
+
+
+### **Basic Geoprocessing Tasks with ArcPy**
+
+I am able to undertake basic geoprocessing tasks utilizing Python and the arcpy library including running geoprocessing tools and working with a variety of data types (i.e. .shp, .tif, .csv, etc.).
+
+###### Relevant Assignments:
+
+[CC 4: Running a Simple Python Tool](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_4)
+
+[CC 5: Heatmap Generation Using Species Distribution](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_5)
+
+[CC 9: Using arcpy.da Cursors](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Coding_Challenge_9)
+
+[Midterm: Creating a Python Tool](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Midterm_Tool_Challenge)
+
+
+### **Python Toolboxes**
+
+I have experience developing Python tools and packaging code into usable Python Toolboxes that are able to be shared and utilized by users of a variety of knowledge levels. 
+
+###### Relevant Assignments:
+
+[Final: Creating Python Toolbox](https://github.com/ETondre/NRS_528_Coding_Challenges/tree/main/Final_Toolbox)
+
+#
+
 
 ###### For any further inquiries, you can contact me at emma_tondre@uri.edu
