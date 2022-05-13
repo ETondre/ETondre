@@ -6,7 +6,8 @@
 I am a third-year student at University of Rhode Island, where I am pursuing a Bachelor of Science in Wildlife & Conservation Biology and a minor in GIS & Remote Sensing. My primary focus is on the preservation and sustainable use of our natural environment, resources, and wildlife. My interests include invasive species management and the conservation of our native flora and fauna. 
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137079211/large.jpeg" width="288" height="384">
-# Purple Pitcher Plant (*Sarracenia purpurea*) Photo taken at Great Swamp Management Area, South Kingstown, RI
+
+###### [Purple pitcher plant (*Sarracenia purpurea*). Photo taken at Great Swamp Management Area, South Kingstown, RI]
 
 # 
 
